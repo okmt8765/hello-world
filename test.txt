@@ -1,1 +1,4 @@
 additional text for sourcetree test
+日本語入力
+测试
+тест
